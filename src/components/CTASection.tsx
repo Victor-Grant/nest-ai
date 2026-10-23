@@ -38,7 +38,7 @@ export default function CTASection() {
         </form> */}
         <div className="py-2">
           <button className="shrink-0 rounded-full bg-gold px-6 py-3.5 text-[15px] font-medium text-ink transition-colors hover:bg-gold-soft focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-cream">
-            <a href="https://wa.me/233593431363">Book my audit</a>
+            <a href="https://wa.me/233532061713">Book my audit</a>
           </button>
         </div>
 
